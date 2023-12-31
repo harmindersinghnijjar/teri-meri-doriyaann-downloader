@@ -1,6 +1,7 @@
 # Teri Meri Doriyaann Episode Downloader
 
-[https://www.desi-serials.cc/wp-content/uploads/2023/03/Teri-Meri-Dooriyann-300x169.jpg]
+![Teri Meri Dooriyann](https://www.desi-serials.cc/wp-content/uploads/2023/03/Teri-Meri-Dooriyann-300x169.jpg)
+
 
 This repository contains a Python script for downloading episodes of the Hindi TV serial "Teri Meri Doriyaann" from a specific website. It uses Selenium for browser automation and BeautifulSoup for parsing HTML content.
 
